@@ -19,6 +19,11 @@ javascript-practice-projects/
 │   ├── style.css
 │   ├── script.js
 │
+├── Random-number-generator/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│
 └── README.md
 ```
 
@@ -34,11 +39,12 @@ javascript-practice-projects/
 
 ## 📌 Projects List
 
-| #   | Project Name           | Description                                                      |
-| --- | ---------------------- | ---------------------------------------------------------------- |
-| 1   | Hypotenuse Calculator  | Calculates the hypotenuse of a right triangle using user inputs. |
-| 2   | Counter App            | Simple counter with increment, decrement, and reset buttons.     |
-| ... | ...                    | ...                                                              |
+| #   | Project Name               | Description                                                      |
+| --- | -------------------------- | ---------------------------------------------------------------- |
+| 1   | Hypotenuse Calculator      | Calculates the hypotenuse of a right triangle using user inputs. |
+| 2   | Counter App                | Simple counter with increment, decrement, and reset buttons.     |
+| 3   | Random Number Generator    | Generates and displays random numbers when you roll the dice.    |
+| ... | ...                        | ...                                                              |
 
 ---
 
