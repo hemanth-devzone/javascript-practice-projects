@@ -1,0 +1,55 @@
+/* General page styling */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  background: linear-gradient(135deg, #f0f4ff, #e6f7ff);
+  font-family: Arial, sans-serif;
+}
+
+/* Heading styling */
+h1 {
+  color: #333;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+/* Number display container */
+div {
+  display: flex;
+  gap: 20px; /* space between numbers */
+  margin-bottom: 20px;
+}
+
+/* Number labels */
+label {
+  font-size: 2.5rem;
+  font-weight: bold;
+  background: white;
+  color: #333;
+  padding: 15px 25px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  min-width: 60px;
+  text-align: center;
+}
+
+/* Button styling */
+button {
+  padding: 12px 30px;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 6px;
+  background: #007bff;
+  color: white;
+  cursor: pointer;
+  transition: background 0.2s, transform 0.1s;
+}
+
+button:hover {
+  background: #0056b3;
+  transform: scale(1.05);
+}
