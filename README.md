@@ -14,7 +14,7 @@ javascript-practice-projects/
 │   ├── style.css
 │   ├── script.js
 │
-├── project-2-name/
+├── counter-app/
 │   ├── index.html
 │   ├── style.css
 │   ├── script.js
@@ -34,11 +34,11 @@ javascript-practice-projects/
 
 ## 📌 Projects List
 
-| #   | Project Name          | Description                                                      |
-| --- | --------------------- | ---------------------------------------------------------------- |
-| 1   | Hypotenuse Calculator | Calculates the hypotenuse of a right triangle using user inputs. |
-| 2   | Project 2 Name        | Short description here                                           |
-| ... | ...                   | ...                                                              |
+| #   | Project Name           | Description                                                      |
+| --- | ---------------------- | ---------------------------------------------------------------- |
+| 1   | Hypotenuse Calculator  | Calculates the hypotenuse of a right triangle using user inputs. |
+| 2   | Counter App            | Simple counter with increment, decrement, and reset buttons.     |
+| ... | ...                    | ...                                                              |
 
 ---
 
