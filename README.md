@@ -29,6 +29,11 @@ javascript-practice-projects/
 │   ├── style.css
 │   ├── script.js
 │
+├── temperature converter/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│
 └── README.md
 ```
 
@@ -50,6 +55,7 @@ javascript-practice-projects/
 | 2   | Counter App             | Simple counter with increment, decrement, and reset buttons.     |
 | 3   | Random Number Generator | Generates and displays random numbers when you roll the dice.    |
 | 4   | Number Guessing Game    | Guess a random number between 1 and 10 with feedback.            |
+| 5   | Temperature Converter   | Converts temperatures between Celsius and Fahrenheit.            |
 | ... | ...                     | ...                                                              |
 
 ---
