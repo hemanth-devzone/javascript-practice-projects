@@ -1,6 +1,6 @@
 # JavaScript Practice Projects
 
-A collection of JavaScript practice exercises and mini-projects created while learning and improving my JavaScript skills.  
+A collection of JavaScript practice exercises and mini-projects created to learn and improve JavaScript skills.  
 Each project is organized in its own folder with HTML, CSS, and JS files.
 
 ---
@@ -34,6 +34,11 @@ javascript-practice-projects/
 │   ├── style.css
 │   ├── script.js
 │
+├── To-Do List/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│
 └── README.md
 ```
 
@@ -41,9 +46,9 @@ javascript-practice-projects/
 
 ## 🚀 How to Run a Project
 
-1. Open the project folder.
+1. Open the desired project folder.
 2. Double-click on `index.html` to open it in your browser.
-3. Or run it using a local development server (e.g., Live Server in VS Code).
+3. Or run it using a local development server (e.g., Live Server extension in VS Code).
 
 ---
 
@@ -56,7 +61,7 @@ javascript-practice-projects/
 | 3   | Random Number Generator | Generates and displays random numbers when you roll the dice.    |
 | 4   | Number Guessing Game    | Guess a random number between 1 and 10 with feedback.            |
 | 5   | Temperature Converter   | Converts temperatures between Celsius and Fahrenheit.            |
-| ... | ...                     | ...                                                              |
+| 6   | To-Do List              | Add, complete, and delete tasks in a simple to-do list app.      |
 
 ---
 
@@ -70,4 +75,4 @@ javascript-practice-projects/
 
 ## 📜 License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This repository is licensed under the [MIT License](LICENSE)
