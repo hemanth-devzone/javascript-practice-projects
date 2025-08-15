@@ -39,6 +39,11 @@ javascript-practice-projects/
 │   ├── style.css
 │   ├── script.js
 │
+├── stopwatch/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│
 └── README.md
 ```
 
@@ -62,6 +67,7 @@ javascript-practice-projects/
 | 4   | Number Guessing Game    | Guess a random number between 1 and 10 with feedback.            |
 | 5   | Temperature Converter   | Converts temperatures between Celsius and Fahrenheit.            |
 | 6   | To-Do List              | Add, complete, and delete tasks in a simple to-do list app.      |
+| 7   | Stopwatch               | Start, pause, and reset a digital stopwatch with milliseconds.   |
 
 ---
 
