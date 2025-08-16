@@ -44,6 +44,11 @@ javascript-practice-projects/
 │   ├── style.css
 │   ├── script.js
 │
+├── Rock Paper Scissors Game/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│
 └── README.md
 ```
 
@@ -59,15 +64,16 @@ javascript-practice-projects/
 
 ## 📌 Projects List
 
-| #   | Project Name            | Description                                                      |
-| --- | ----------------------- | ---------------------------------------------------------------- |
-| 1   | Hypotenuse Calculator   | Calculates the hypotenuse of a right triangle using user inputs. |
-| 2   | Counter App             | Simple counter with increment, decrement, and reset buttons.     |
-| 3   | Random Number Generator | Generates and displays random numbers when you roll the dice.    |
-| 4   | Number Guessing Game    | Guess a random number between 1 and 10 with feedback.            |
-| 5   | Temperature Converter   | Converts temperatures between Celsius and Fahrenheit.            |
-| 6   | To-Do List              | Add, complete, and delete tasks in a simple to-do list app.      |
-| 7   | Stopwatch               | Start, pause, and reset a digital stopwatch with milliseconds.   |
+| #   | Project Name                 | Description                                                      |
+| --- | ---------------------------- | ---------------------------------------------------------------- |
+| 1   | Hypotenuse Calculator        | Calculates the hypotenuse of a right triangle using user inputs. |
+| 2   | Counter App                  | Simple counter with increment, decrement, and reset buttons.     |
+| 3   | Random Number Generator      | Generates and displays random numbers when you roll the dice.    |
+| 4   | Number Guessing Game         | Guess a random number between 1 and 10 with feedback.            |
+| 5   | Temperature Converter        | Converts temperatures between Celsius and Fahrenheit.            |
+| 6   | To-Do List                   | Add, complete, and delete tasks in a simple to-do list app.      |
+| 7   | Stopwatch                    | Start, pause, and reset a digital stopwatch with milliseconds.   |
+| 8   | Rock Paper Scissors Showdown | Play a classic Rock Paper Scissors game against the computer.    |
 
 ---
 
