@@ -1,0 +1,66 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  background: linear-gradient(135deg, #1976d2 0%, #e3f2fd 100%);
+  font-family: "Segoe UI", Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#gameDiv {
+  background: #fff;
+  padding: 36px 32px;
+  border-radius: 16px;
+  box-shadow: 0 6px 32px rgba(44, 62, 80, 0.12);
+  width: 350px;
+  text-align: center;
+}
+
+.title {
+  color: #1976d2;
+  margin-bottom: 24px;
+  font-size: 2rem;
+  letter-spacing: 1px;
+}
+
+.scoreboard h2 {
+  margin: 10px 0;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+#resultText {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #1565c0;
+  margin-top: 18px;
+  margin-bottom: 10px;
+  min-height: 32px;
+}
+
+.button-group {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  margin-top: 24px;
+}
+
+.choiceBtn {
+  padding: 12px 22px;
+  font-size: 1.1rem;
+  background: #1976d2;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(44, 62, 80, 0.08);
+  transition: background 0.2s, transform 0.2s;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
+.choiceBtn:hover {
+  background: #1565c0;
+  transform: scale(1.08);
+}
