@@ -77,7 +77,6 @@ javascript-practice-projects/
 
 ---
 
-
 ## 🎯 Purpose
 
 - Practice JavaScript concepts.
