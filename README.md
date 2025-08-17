@@ -104,6 +104,7 @@ javascript-practice-projects/
 | 6   | [To-Do List](https://github.com/hemanth-devzone/javascript-practice-projects/tree/main/To-Do%20List)                                         | Add, complete, and delete tasks in a simple to-do list app.                                          |
 | 7   | [Stopwatch](https://github.com/hemanth-devzone/javascript-practice-projects/tree/main/stopwatch)                                             | Start, pause, and reset a digital stopwatch with milliseconds.                                       |
 | 8   | [Rock Paper Scissors Showdown](https://github.com/hemanth-devzone/javascript-practice-projects/tree/main/Rock%20Paper%20Scissors%20Showdown) | Play a classic Rock Paper Scissors game against the computer.                                        |                                    |
+| 9   | [TicTacToe Game](https://github.com/hemanth-devzone/javascript-practice-projects/tree/main/TicTacToe-Game)                                   | Play the classic Tic Tac Toe game with a modern UI.                                                  |
 
 ---
 
