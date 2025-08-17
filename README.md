@@ -74,6 +74,11 @@ javascript-practice-projects/
 │   ├── style.css
 │   ├── script.js
 │
+├── TicTacToe-Game/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│
 └── README.md
 ```
 
