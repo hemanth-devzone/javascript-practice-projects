@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Snake Game</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="gameContainer">
+      <h1 id="gameTitle">🐍 Snake Game</h1>
+      <canvas id="gameBoard" width="500" height="500"></canvas>
+      <div id="scoreLabel">Score</div>
+      <div id="scoreText">0</div>
+      <button id="resetBtn">Reset</button>
+      <div id="instructions">
+        <p>
+          Use <b>Arrow Keys</b> to move.<br />Eat the red food to grow.<br />Avoid
+          hitting the walls or yourself!
+        </p>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

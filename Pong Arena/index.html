@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pong Arena</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="gameContainer">
+      <h1 id="gameTitle">🏓 Pong Arena</h1>
+      <canvas id="gameBoard" width="500" height="500"></canvas>
+      <div id="scoreLabel">Score</div>
+      <div id="scoreText">0 : 0</div>
+      <button id="resetBtn">Reset</button>
+      <div id="instructions">
+        <p>
+          <b>Player 1:</b> W (up), S (down)<br />
+          <b>Player 2:</b> ↑ (up), ↓ (down)<br />
+          First to score 5 wins!
+        </p>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,83 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  background: linear-gradient(135deg, #43cea2 0%, #185a9d 100%);
+  font-family: "Segoe UI", Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#gameContainer {
+  background: #fff;
+  padding: 32px 28px;
+  border-radius: 18px;
+  box-shadow: 0 6px 32px rgba(44, 62, 80, 0.12);
+  text-align: center;
+  min-width: 340px;
+}
+
+#gameTitle {
+  font-family: "Permanent Marker", cursive;
+  color: #185a9d;
+  font-size: 2.3rem;
+  margin-bottom: 18px;
+  letter-spacing: 2px;
+}
+
+#gameBoard {
+  border: 4px solid #185a9d;
+  border-radius: 12px;
+  background: #f7f7f7;
+  margin-bottom: 18px;
+  box-shadow: 0 2px 8px rgba(44, 62, 80, 0.08);
+}
+
+#scoreLabel {
+  font-family: "Permanent Marker", cursive;
+  font-size: 1.3rem;
+  color: #43cea2;
+  margin-bottom: 4px;
+  letter-spacing: 1px;
+}
+
+#scoreText {
+  font-family: "Permanent Marker", cursive;
+  font-size: 2.5rem;
+  color: #185a9d;
+  margin-bottom: 18px;
+}
+
+#resetBtn {
+  font-family: "Permanent Marker", cursive;
+  font-size: 1.1rem;
+  width: 110px;
+  height: 48px;
+  border: 3px solid #43cea2;
+  border-radius: 15px;
+  cursor: pointer;
+  background: #43cea2;
+  color: #fff;
+  margin-bottom: 12px;
+  transition: background 0.2s, transform 0.2s;
+}
+
+#resetBtn:hover {
+  background: #185a9d;
+  border-color: #185a9d;
+  transform: scale(1.07);
+}
+
+#instructions {
+  font-size: 1rem;
+  color: #333;
+  margin-top: 10px;
+  background: #e3f2fd;
+  border-radius: 8px;
+  padding: 10px 0;
+  box-shadow: 0 1px 4px rgba(44, 62, 80, 0.06);
+}
+#instructions p {
+  margin: 0;
+  padding: 0 16px;
+}
