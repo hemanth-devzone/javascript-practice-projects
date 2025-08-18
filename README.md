@@ -79,6 +79,16 @@ javascript-practice-projects/
 │   ├── style.css
 │   ├── script.js
 │
+├── Snake Game/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│
+├── Pong Arena/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│
 └── README.md
 ```
 
@@ -103,8 +113,10 @@ javascript-practice-projects/
 | 5   | [Temperature Converter](https://github.com/hemanth-devzone/javascript-practice-projects/tree/main/temperature%20converter)                   | Converts temperatures between Celsius and Fahrenheit.                                                |
 | 6   | [To-Do List](https://github.com/hemanth-devzone/javascript-practice-projects/tree/main/To-Do%20List)                                         | Add, complete, and delete tasks in a simple to-do list app.                                          |
 | 7   | [Stopwatch](https://github.com/hemanth-devzone/javascript-practice-projects/tree/main/stopwatch)                                             | Start, pause, and reset a digital stopwatch with milliseconds.                                       |
-| 8   | [Rock Paper Scissors Showdown](https://github.com/hemanth-devzone/javascript-practice-projects/tree/main/Rock%20Paper%20Scissors%20Showdown) | Play a classic Rock Paper Scissors game against the computer.                                        |                                    |
+| 8   | [Rock Paper Scissors Showdown](https://github.com/hemanth-devzone/javascript-practice-projects/tree/main/Rock%20Paper%20Scissors%20Showdown) | Play a classic Rock Paper Scissors game against the computer.                                        |
 | 9   | [TicTacToe Game](https://github.com/hemanth-devzone/javascript-practice-projects/tree/main/TicTacToe-Game)                                   | Play the classic Tic Tac Toe game with a modern UI.                                                  |
+| 10  | [Snake Game](https://github.com/hemanth-devzone/javascript-practice-projects/tree/main/Snake%20Game)                                         | Classic snake game where you control a snake to eat food and grow without hitting walls or yourself. |
+| 11  | [Pong Arena](https://github.com/hemanth-devzone/javascript-practice-projects/tree/main/Pong%20Arena)                                         | Two-player pong game where players compete to score 5 points first.                                  |
 
 ---
 
